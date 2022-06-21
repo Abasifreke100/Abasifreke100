@@ -6,11 +6,10 @@
 
 ### Hi there 👋
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
-
+I am Abasifreke Essien. But you will find me everywhere with handle name bugsHunter.
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on a educational platform. Keep an eye for it.
-- 🌱 I’m currently learning Node backend
+- 🔭 I’m currently working on with Start Innovation Hub
+- 🌱 I’m currently learning typeScript & Nodejs with NestJs backend
 - 👯 I’m looking to collaborate on opensource and group projects.
 
  ## Connect with me:
@@ -25,9 +24,8 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 ## Languages
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
