@@ -6,9 +6,9 @@
 
 ### Hi there 👋
 
-I am Abasifreke Essien. But you will find me everywhere with handle name bugsHunter.
-- 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on with Start Innovation Hub
+I'm Abasifreke Essien, A.K.A (bugsHunter).
+- 💻 I **love** coding
+- 🔭 I’m currently working on with Start Innovation Hub as a Lead Backend Engineer
 - 🌱 I’m currently learning typeScript & Nodejs with NestJs backend
 - 👯 I’m looking to collaborate on opensource and group projects.
 
@@ -47,12 +47,12 @@ I am Abasifreke Essien. But you will find me everywhere with handle name bugsHun
 
 ## Github Overview
 
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="Abasifreke100's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abasifreke100&show_icons=true" />&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abasifreke100)](https://github.com/Abasifreke100/github-readme-stats) 
 
 ## Projects that I contributed to
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abasifreke100&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/Abasifreke100/BUET-CSE-Moodle-Web-Scraping) <br />
 
 ## My Programming Performances
 
@@ -65,7 +65,7 @@ I am Abasifreke Essien. But you will find me everywhere with handle name bugsHun
 | <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Max Rank | 1651 <br />  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  | 1925 <br /> ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) | - | - |
 
 
-⭐️ From [TamimEhsan](https://github.com/TamimEhsan)
+⭐️ From [TamimEhsan](https://github.com/Abasifreke100)
 
 [website]: https://tamimehsan.github.io/
 [instagram]: https://instagram.com/tamim.ehsan
