@@ -28,17 +28,14 @@ I'm Abasifreke Essien (bugsHunter).
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
 ## Live Projects
-
-[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
+! citisquare.africa
+! limgologistics.com
+! hospyta.com
 
 ## Github Overview
 
 <img align="left" alt="Abasifreke100's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abasifreke100&show_icons=true" />&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abasifreke100)](https://github.com/Abasifreke100/github-readme-stats) 
-
-## Projects that I contributed to
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abasifreke100&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/Abasifreke100/BUET-CSE-Moodle-Web-Scraping) <br />
 
 
 ⭐️ From [Abasifreke100](https://github.com/Abasifreke100)
