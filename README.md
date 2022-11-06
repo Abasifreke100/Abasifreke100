@@ -32,12 +32,6 @@ I'm Abasifreke Essien (bugsHunter).
 ! Figur Mobile App
 ! Fosad Web App
 
-## Github Overview
-
-<img align="left" alt="Abasifreke100's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abasifreke100&show_icons=true" />&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abasifreke100)](https://github.com/Abasifreke100/github-readme-stats) 
-
-
 ⭐️ From [Abasifreke100](https://github.com/Abasifreke100)
 
 [website]: https://tamimehsan.github.io/
