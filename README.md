@@ -4,7 +4,7 @@
 I'm Abasifreke Essien (bugsHunter).
 - 💻 I **love** coding
 - 🔭 I’m currently working with (Start Innovation Hub) as a Lead Backend Engineer
-- 🌱 I’m currently learning typeScript & Nodejs with NestJs backend
+- 🌱 I’m currently writing typeScript & Nodejs with NestJs backend
 - 👯 I’m looking to collaborate on opensource and group projects.
 
 ## Languages
@@ -28,9 +28,9 @@ I'm Abasifreke Essien (bugsHunter).
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
 ## Live Projects
-! citisquare.africa
-! limgologistics.com
-! hospyta.com
+! Citisquare Web App
+! Figur Mobile App
+! Fosad Web App
 
 ## Github Overview
 
