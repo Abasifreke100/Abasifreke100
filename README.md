@@ -25,6 +25,7 @@ I'm Abasifreke Essien (bugsHunter).
 ![Mysql](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=mysql) <br />
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
+![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=nest.js) <br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
 ## Live Projects
