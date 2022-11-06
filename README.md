@@ -32,6 +32,7 @@ I'm Abasifreke Essien (bugsHunter).
 ! Citisquare Web App
 ! Figur Mobile App
 ! Fosad Web App
+! Hospyta Mobile App
 
 ⭐️ From [Abasifreke100](https://github.com/Abasifreke100)
 
